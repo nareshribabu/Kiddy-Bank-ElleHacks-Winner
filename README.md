@@ -1,3 +1,4 @@
+![](https://github.com/nareshribabu/Python-Projects-SandBox/blob/main/sandboxPic.jpg)
 # Kiddy-Bank-ElleHacks-Winner
 As part of ElleHacks our idea - "Kiddy Bank" - won the Bell Custom Award!
 
