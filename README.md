@@ -5,8 +5,8 @@ As part of ElleHacks our idea - "Kiddy Bank" - won the Bell Custom Award!
 We won out of ten teams for the Bell Custom Award – to create a technology solution that will help those who have traditionally been less likely to benefit from technological innovation.
 
 ## Demo
-- [Live Demo](https://nareshribabu.github.io/Kiddy-Bank-ElleHacks-Winner/)
-- [Presentation](https://youtu.be/cUOvI7lmlfs)
+- [🔗 Live Demo](https://nareshribabu.github.io/Kiddy-Bank-ElleHacks-Winner/)
+- [🔗 Presentation](https://youtu.be/cUOvI7lmlfs)
 
 ![](original.gif)
 
